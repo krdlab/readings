@@ -1,0 +1,5 @@
+/Gemfile*
+/.bundle
+/bundle
+/_config.yml
+/_site
